@@ -1,3 +1,8 @@
+# MIT License
+# Copyright (c) 2018 Félix An
+
+# This script is used to find 3 DIFFERENT positive or negative factors for a given number.
+
 targetNo = int(input("Target Number to find factor triplets? Must be a positive integer -> "))
 
 int1 = targetNo * -1
