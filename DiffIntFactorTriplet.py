@@ -1,4 +1,4 @@
-# MIT License
+# MIT License (see the licence in the repo for details)
 # Copyright (c) 2018 Félix An
 
 # This script is used to find 3 DIFFERENT positive or negative factors for a given number.
